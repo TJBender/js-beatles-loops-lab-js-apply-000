@@ -30,7 +30,7 @@ function iLoveTheBeatles(num) {
   var love = [];
 
     do {
-     i = love.push("I love the Beatles!")
+     var i = love.push("I love the Beatles!")
       i++
       
     }
