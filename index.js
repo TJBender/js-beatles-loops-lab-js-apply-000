@@ -28,10 +28,10 @@ return exclaimFacts;
 
 function iLoveTheBeatles(num) {
   var love = [];
-  var i = 0;
+
     do {
-      love.push("I love the Beatles!")
-      i += num;
+     i = love.push("I love the Beatles!")
+      i++
       
     }
 while (i < 15);
