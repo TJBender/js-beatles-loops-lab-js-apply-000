@@ -31,9 +31,9 @@ function iLoveTheBeatles(num) {
   var i = 0;
     do {
      var xoxo = love.push("I love the Beatles!")
-      num += 1;
+      i += num;
       
     }
-while (i < 15);
+while (num < 15);
 return love;
 }
